@@ -1,0 +1,142 @@
+.logo
+{
+	
+	background-color:black;
+	height:75px;
+	width:1348px;
+	margin-bottom:5px;
+	
+	
+}
+.start-bootstrap
+{
+	
+	width:1350px;
+	background-color:green;
+	height:200px;
+		margin-bottom:5px;
+				text-align:center;
+		line-heigth:50px;
+}
+.portfolio
+{
+	
+	width:1350px;
+	height:90px;
+		margin-bottom:5px;
+		text-align:center;
+		line-heigth:50px;
+
+}
+		
+.box1
+{
+	float:left;
+	height:200px;
+	width:300px;
+	display:flex-start;
+	background-color:blue;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box2
+{
+	float:left;
+	height:200px;
+	width:300px;
+	display:flex-start;
+	background-color:blue;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box3
+{
+	float:left;
+	height:200px;
+	width:300px;
+	display:flex-start;
+	background-color:blue;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box4
+{
+	float:left;
+	height:200px;
+	width:300px;
+	display:flex-start;
+	background-color:blue;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box5
+{
+	float:left;
+	height:200px;
+	width:300px;
+	display:flex-start;
+	background-color:blue;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+.box6
+{
+	float:left;
+	height:200px;
+	width:300px;
+	display:flex-start;
+	background-color:blue;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+}
+		
+
+.About
+{
+	margin-top:500px;
+	width:1350px;
+	background-color:tomato;
+	height:200px;
+		margin-bottom:5px;
+		text-align:center;
+		line-heigth:50px;
+}
+.contact
+{
+	
+	width:1350px;
+	background-color:brown;
+	height:200px;
+		margin-bottom:5px;
+		text-align:center;
+		line-heigth:50px;
+}
+.footer
+{
+	
+	width:1350px;
+	background-color:violet;
+	height:200px;
+		margin-bottom:5px;
+		text-align:center;
+		line-heigth:50px;
+		
+}
